@@ -131,3 +131,9 @@ dmypy.json
 
 # SQLite
 *.db
+
+# pycharm
+.idea
+
+# exports
+*.csv
